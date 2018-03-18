@@ -1,0 +1,7 @@
+Licenses and attributions (when needed) for the image files in this directory are listed below.
+
+---
+Files: one.png, two.png, three.png, four.png, five.png, six.png, seven.png, eight.png, nine.png, zero.png
+From: Original creation of Neal Smith
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
+---
